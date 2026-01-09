@@ -8,7 +8,7 @@ https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
 ---
 
-### Benefits of Distributed Version Control Systems
+### Benefits of Distributed Version Control Systems 
 This article explains why distributed version control systems are widely used in modern software development.  
 https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/
 
