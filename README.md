@@ -52,15 +52,6 @@ Topics covered:
 
 ---
 
-### Module 4: Project and Assessment
-This module applies all previously learned concepts through a practical GitHub-based project, reinforcing real-world version control workflows.
-
-Topics covered:
-1. Review of all version control concepts  
-2. Applying Git and GitHub skills in a complete project workflow  
-
----
-
 ## Practical Exercises
 Hands-on exercises are included throughout the repository to strengthen practical understanding of version control, GitHub workflows, and command-line usage.
 
