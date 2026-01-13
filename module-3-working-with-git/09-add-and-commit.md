@@ -111,7 +111,7 @@ git status
 - Output shows:
   - Nothing to commit
   - Working tree clean
-- Git提示 indicates local commits exist and can be published using `git push`
+- Git indicates that local commits exist and can be published using `git push`
 
 ---
 
