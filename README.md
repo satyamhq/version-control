@@ -1,3 +1,4 @@
+<img width="640" height="320" alt="Version Control" src="https://github.com/user-attachments/assets/b309bb34-d73f-469c-920f-4b2aa8b1b227" />
 # Version Control
 
 ## Overview
