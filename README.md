@@ -1,63 +1,92 @@
 # Version Control
 
-## Overview
-This repository explains how software developers collaborate on shared projects using version control systems. It focuses on organizing code, tracking changes, and preventing conflicts when multiple contributors work on the same codebase.
+This repository introduces the fundamentals of **version control** and explains how modern software developers collaborate on shared projects without overwriting or breaking each other’s code.
 
-The repository also introduces Linux command-line fundamentals for managing files and automating workflows. Additionally, it demonstrates how Git and GitHub are used in real-world development environments to store code, manage revisions, and collaborate efficiently.
+It focuses on organizing code, tracking changes, and managing collaborative workflows using **Git**, **GitHub**, and the **Linux command line**.
+
+---
+
+## Course Overview
+
+Version Control is a beginner-level course designed to help learners understand how software development teams work efficiently across the world.
+
+The repository covers:
+- Core version control concepts
+- Command-line fundamentals
+- Git-based workflows
+- Collaborative development using GitHub
+
+It is suitable for learners with no prior experience in version control systems.
 
 ---
 
 ## Learning Objectives
+
 By exploring this repository, you will be able to:
 
 - Understand and apply version control concepts  
-- Use the command line to manage files and directories  
+- Navigate and use the Linux command line  
 - Track, review, and manage code changes over time  
-- Create, maintain, and collaborate on GitHub repositories  
+- Create and manage GitHub repositories  
+- Collaborate effectively on shared codebases  
+
+---
+
+## Skills Covered
+
+- Version Control Systems  
+- Git  
+- GitHub  
+- Linux  
+- Command-Line Interface  
+- Software Development Workflows  
+- Collaborative Software Development  
+- Web Development Tools  
 
 ---
 
 ## Modules
 
 ### Module 1: Software Collaboration
-This module explains how version control brings structure and reliability to large software projects. It highlights how development teams collaborate effectively using standardized workflows.
 
-Topics covered:
-1. Team collaboration in modern software development  
-2. Types of version control systems  
-3. Common software development workflows  
+This module explains how version control brings structure and reliability to software projects and enables effective team collaboration.
+
+**Topics covered:**
+- Collaboration in modern software development  
+- Types of version control systems  
+- Common development workflows  
 
 ---
 
 ### Module 2: Command Line Fundamentals
-This module introduces the Linux command line and demonstrates how it is used for everyday file operations and task automation.
 
-Topics covered:
-1. Purpose and importance of the command line  
-2. Navigating directories using terminal commands  
-3. Creating, renaming, and deleting files and folders  
-4. Using piping and redirection for automation  
+This module introduces the Linux command line and its role in file management and workflow automation.
+
+**Topics covered:**
+- Purpose of the command line  
+- Navigating directories  
+- Creating, renaming, and deleting files and folders  
+- Piping and redirection  
+- Automating tasks using commands  
 
 ---
 
 ### Module 3: Working with Git and GitHub
-This module focuses on Git as a version control tool and GitHub as a collaboration platform. It covers managing repositories, commits, branches, and remote workflows.
 
-Topics covered:
-1. Core Git concepts and principles  
-2. Working with local and remote repositories  
-3. Standard GitHub workflow  
-4. Branch creation and merging  
-5. Moving code from local development to production  
+This module focuses on Git as a version control system and GitHub as a collaboration platform.
 
----
-
-## Practical Exercises
-Hands-on exercises are included throughout the repository to strengthen practical understanding of version control, GitHub workflows, and command-line usage.
+**Topics covered:**
+- Core Git concepts  
+- Local and remote repositories  
+- GitHub workflow  
+- Branching and merging  
+- Managing code revisions  
+- Moving code from development to production  
 
 ---
 
 ## Tools and Technologies
+
 - Git  
 - GitHub  
 - Linux Command Line  
@@ -65,12 +94,13 @@ Hands-on exercises are included throughout the repository to strengthen practica
 ---
 
 ## Author
-Satyam Kumar  
-GitHub: https://github.com/satyamhq
+
+**Satyam Kumar**  
+GitHub: https://github.com/satyamhq  
+Repository: https://github.com/satyamhq/version-control  
 
 ---
 
-## Repository Notes
-- Modules are organized into clearly named directories  
-- Command-line and Git concepts are demonstrated with practical examples  
-- Outdated or unnecessary files have been removed for clarity  
+## Getting Started
+
+Clone the repository and explore each module in sequence to build a strong foundation in version control and collaborative software development.
